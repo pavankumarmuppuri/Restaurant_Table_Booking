@@ -38,4 +38,13 @@ body {
   button:hover{
     background-color: green;
   }
-  
+  input{
+    height: 20px;
+  }
+  select{
+    height: 20px;
+  }
+  #confirmation{
+    margin-top: 10px;
+    height: 25px;
+  }
